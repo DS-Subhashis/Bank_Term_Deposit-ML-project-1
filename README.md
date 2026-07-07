@@ -90,9 +90,6 @@ The notebook is structured into 6 clear steps, following a proper ML pipeline:
 
 ---
 
-## 5. One-Line Summary
-**“First the data was loaded, cleaned, and understood (EDA), then the right features were selected, a simple baseline model was built, model fit was checked, and finally advanced models improved accuracy — all in a proper step-by-step ML pipeline.”**
-
 ---
 
 Would you like me to also polish this into a **professional project report format** (with executive summary, methodology, results, and business recommendations), or keep it as a straightforward translation?
