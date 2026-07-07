@@ -21,7 +21,7 @@ The notebook is structured into 6 clear steps, following a proper ML pipeline:
 
 ### Step 1: Data Importing
 - Dataset loaded using **pandas**.  
-- Although the file extension is `.xls`, the data is semicolon-separated, so `read_csv` with `sep=';'` was used.  
+- Although the file extension is `.xls`, the data is semicolon-separated, so `bank-full.csv.xls` with `sep=';'` was used.  
 - Output: 45,211 rows and 17 columns.  
 
 ### Step 2: EDA and Correlation Analysis
